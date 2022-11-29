@@ -27,3 +27,13 @@ html {
   font-size: 10rem;
   flex-flow: column;
 }
+
+.chat {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  width: 25px;
+  aspect-ratio: 1;
+  background-color: red;
+  border-radius: 1rem;
+}
